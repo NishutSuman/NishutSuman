@@ -4,38 +4,25 @@
 
 <h3 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <h1 align="center">I'm Nishut Suman Mahunta</h1>
-
-<h3 align="center">An Enthusiast, Code Lover and Life-Long Learner</h3>
-
-  
-  
-<div style= "display : flex" align="center>
-  <div align="left">
-    
+<h3 align="center" >An Enthusiast, Code Lover and Life-Long Learner</h3>
+<!-- 
   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman.NishutSuman)
   [![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
-    
-    
-  </div>
-  <div align="center">
-    <h4>Thank You for Visiting my GitHub Profile</h4>
-  </div>
-  <div align="right">
-    <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-  </div>
-</div
+  -->
 
 <div align="center">
   <div style="display: flex; align-items: center;">
                                                       
    ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman.NishutSuman)
    [![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
-                                                      
-   <h4>Thank You for Visiting my GitHub Profile</h4>
-   <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
                                                                                                                                               
   </div>
 </div>
+  
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
                                                                                                                                                
                                                                                                                                                
 ## Dynamic Quotes 📜:
@@ -157,6 +144,38 @@
 <br><br>
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
 <br><br>
+  
+<div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/_DHANOLA" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:rahuldhanola31@gmail.com" >
+  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100013628134596">
+    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+</p>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
