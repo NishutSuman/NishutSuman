@@ -23,44 +23,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
-                                                                                                                                               
-                                                                                                                                               
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
-
-<br>
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
-
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
-
-<p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
-</p>
-
-<div align="center">
-
-## **Scan Me**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
-</div>
-
-<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
-
-<h3 align="left">Interests:</h3>
-
-- Data Science 📊
-- Data Structures And Algorithms 💻
-- Database 
-
-<h3 align="left">Languages:</h3>
-
-- English 🔤
-- Tamil
-
 <br><br>
 
 ## **Tech Toolbox🧰**<br>
@@ -89,16 +52,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
   
-## **Badges🥇**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
-  
-# Achievements :
-  - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
-  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
-  - Got selected to meet-up with Angel Investors.
-
   
 ## &#x1f4c8; My GitHub Stats🎯
  
@@ -130,23 +83,10 @@
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
-<h2  > Connect with me</h2>
-  
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
-<br><br>
-[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
-<br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
-<br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
-<br><br>
+
   
 <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+<h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/dhanola/" target="_blank">
@@ -189,5 +129,7 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 -----
-Credits: avinash-218(https://github.com/avinash-218)
-Last Edited on: 12/01/2022
+<div text-align="center">
+  Credits: Nishut Suman Mahunta(https://github.com/NishutSuman)
+  Last Edited on: 22/04/2022
+</div>
