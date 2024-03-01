@@ -13,7 +13,7 @@
 <div align="center">
   <div style="display: flex; align-items: center;">
                                                       
-   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman.NishutSuman)
+   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman)
    [![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
                                                                                                                                               
   </div>
