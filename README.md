@@ -5,131 +5,145 @@
 <h3 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <h1 align="center">I'm Nishut Suman Mahunta</h1>
 <h3 align="center" >An Enthusiast, Code Lover and Life-Long Learner</h3>
-<!-- 
-  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman.NishutSuman)
-  [![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
-  -->
 
-<div align="center">
-  <div style="display: flex; align-items: center;">
-                                                      
-   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=NishutSuman)
-   [![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
-                                                                                                                                              
-  </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
-  
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-  
-<br><br>
+<br/>
+<br/>
 
-## **Tech Toolbox🧰**<br>
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
+<!-- <div style="display: flex, width:20px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishutSuman&label=Profile%20Views&color=0e75b6&style=flat" alt="err" />
+
+[![Github](https://img.shields.io/github/followers/NishutSuman?label=Follow&style=social)](https://github.com/NishutSuman)
+</div> -->
+</p>
+
+<h2 align="center" margin-top={0}> 👽 About Me</h2>
+<h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
+
+In addition to my MERN proficiency, I bring valuable experience in software testing with Jest, Cypress and CypressSatteful. I honed my skills in developing robust and scalable MERN applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
+
+<h4>💼 What I do:</h4>
+  <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
+    Develop responsive front-end interfaces with HTML, CSS, and JavaScript.
+    Craft RESTful APIs and server-side logic with Node.js and Express.js.
+    Design and optimize databases with MongoDB for efficient data handling.
+    Implement state management and data flow using Redux for seamless user experiences.
+
+  <h4>🌱 Always learning: </h4>
+    I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into Flutter, Angular and exploring ways to optimize application performance. Also I am eagerly learning Product Management and applying it's basic in my day to day coding life.
+  
+  <h4>🚀 Open to collaboration: </h4>
+    I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
+  
+  <h4>💬 Let's connect: </h4>
+    I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore my repositories and share your thoughts. I'm looking forward to connecting with fellow developers and exchanging insights.
+  
+  <h4>🎯 Passionate about impact: </h4>
+    My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
+  
+  Happy coding and exploring! 🚀</p>
+
+  <div align="center"><img src="./Image/fullstack.gif"/></div>
+  <br/>
+
+<div align='center'>
+
+  <!-- ![age](https://img.shields.io/badge/age-25-blue&height="20") -->
+
+![lives In](https://img.shields.io/badge/livesIn-Bengaluru,Karnataka-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+
+</div>
+
+<h3 align='center'> 🔍 Find me here </h3>
+<div align='center'>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nishutsuman)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://abhishekdewanganportfolio.netlify.app/)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@nishutsuman)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/NishutSuman)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/nishutsuman/)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/nishutsuman)
+
+</div>
+
+<h2 align='center'> 🖱️ Tech Skills</h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<h3 align='center'> Frontend Enchantments</h3>
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
-<a href="https://netbeans.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle"/> </a>
-<a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
-<a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/spyder/#:~:text=Spyder%2C%20the%20Scientific%20Python%20Development,%2C%20debugging%2C%20and%20introspection%20features.&text=Spyder%20is%20also%20pre%2Dinstalled,which%20is%20included%20in%20Anaconda." target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<div align='center' style="display: flex, width:20px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-9400d3?style=for-the-badge&logo=angular&logoColor=violet" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <h3 align='center'> Backend Wizardry:</h3>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=cyan" />
   
+  <img src="https://img.shields.io/badge/Socket.io-violet?style=for-the-badge&logo=socket.io&badgeColor=black" />
   
-## &#x1f4c8; My GitHub Stats🎯
- 
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+</div>
+<!-- <br/> -->
+<h3 align='center'> Tool Mastery:</h3>
+<div align='center' style="display: flex, width: 20px">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+<br/>
+<h2 align='center'> 🤝 Soft Skills</h2>
+<div align='center' style="display: flex, width:20px">
+<img src="https://img.shields.io/badge/Communication-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=problemsolving&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Managment-000000?style=for-the-badge&logo=timemanagment&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
-
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
-</details>
-  
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
-</p>  
-
-<a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
-  
-
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishutSuman&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishutSuman&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishutSuman&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishutSuman&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishutSuman&theme=github_dark&utcOffset=8">
+</p>
+<div style="display: flex;">
+    <img width="450px" height="200px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishutSuman&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="300px" height="200px" alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishutSuman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+</div>
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/NishutSuman"><img src="https://github-profile-trophy.vercel.app/?username=NishutSuman&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
+</div>
 
-  
 <div align="center">
 <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+<a href="https://linkedin.com/in/nishutsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
+<a href="https://instagram.com/nishutsuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alipa_ranga__" height="30" width="40" /></a>
 </p>
-  
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-
-## Have a Smiley Day...😃 :<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
------
-<div text-align="center">
-  Credits: Nishut Suman Mahunta(https://github.com/NishutSuman)
-  Last Edited on: 22/04/2022
-</div>
+<hr>
